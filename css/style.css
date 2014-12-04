@@ -99,22 +99,22 @@ hr {
 /* --- section bg var --- */
 
 .bg-white {
-	background: #fff;
+	background: #444;
 }
 
 .bg-gray {
-	background: #f8f8f8;
+	background: #333;
 }
 
 
 .bg-dark {
-	background: #575757;
+	background: #222;
 }
 
 /* --- section color var --- */
 
 .text-light {
-	color: #fff;
+	color: #005eff;
 }
 
 /* ============================
