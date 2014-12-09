@@ -1,4 +1,0 @@
-trickstonia
-===========
-
-Tricking homepage
